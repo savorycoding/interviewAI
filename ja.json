@@ -2,14 +2,14 @@
    "INTERVIEW_AGREE" : {
       "contents" : {
          "list" : [
-            "온라인 면접에서는 응시자의 면접평가를 위해 영상 녹화 및 음성 녹음이 이루어지며, 응시자는 이에 동의하지 않을 권리가 있습니다.",
-            "뭔가 worker가 정상 작동하지 않는듯하다.",
-            "이것도잘될거라고생각합니다.",
-            "온라인 AI면접 과정에서 수집된 영상 및 음성 정보는 지원 시 동의된 보관 기간이 지나면 자동으로 삭제됩니다."
+            "english is essesntial",
+            "can't do",
+            "Can't use it",
+            "helpme!"
          ],
-         "title" : "this is done now"
+         "title" : "englishisImportant"
       },
-      "text_agree" : "본인은 위 내용을 잘 읽어 보았으며 내용에 동의합니다.",
+      "text_agree" : "뭐요",
       "text_agree_button" : "이것도잘되겠죠",
       "text_before_agree" : "동의하지 않으면 면접을 진행 할 수 없습니다.",
       "title" : "정보 활용 동의"

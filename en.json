@@ -2,15 +2,15 @@
    "INTERVIEW_AGREE" : {
       "contents" : {
          "list" : [
-            "온라인 면접에서는 잘 될 거 같아요!",
+            "english is essesntial",
             "can't do",
             "Can't use it",
-            "수정이 바로 됩니까요?"
+            "helpme!"
          ],
          "title" : "englishisImportant"
       },
-      "text_agree" : "본인은 말이죠!",
-      "text_agree_button" : "동의 및 온라인 면접 시작하기",
+      "text_agree" : "뭐요",
+      "text_agree_button" : "이것도잘되겠죠",
       "text_before_agree" : "동의하지 않으면 면접을 진행 할 수 없습니다.",
       "title" : "정보 활용 동의"
    },
