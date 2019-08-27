@@ -65,7 +65,7 @@
       "text002" : "こんにちは。はじめまして。"
    },
    "INTERVIEW_HARDWARE_CHECK" : {
-      "button_text001" : "確認",
+      "button_text001" : "확인",
       "image" : "3d\/nowebcam.png",
       "title" : "カメラまたはマイクの接続状態を確認してください"
    },
