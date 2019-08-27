@@ -1381,7 +1381,7 @@
                   "title" : "`[준비] 이번 게임의 목표는 <b>사진 속 인물의 취향을 파악하여 질문에 응답<\/b>해야 합니다.`"
                }
             ],
-            "CAPABILITY" : "-",
+            "CAPABILITY" : "",
             "CAPABILITY_ICON" : "",
             "GUIDE" : {
                "description" : [
@@ -1419,7 +1419,7 @@
                   "image" : "PPT\/sampleImage1.png"
                }
             ],
-            "TITLE" : "-"
+            "TITLE" : ""
          },
          "SPC1" : {
             "AUTO_START" : [
