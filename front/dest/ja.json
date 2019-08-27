@@ -62,7 +62,7 @@
    "INTERVIEW_HARDWARE_CALIBRATION" : {
       "checkStart" : "チェックスタート",
       "text001" : "ガイドラインの中に顔を位置させ、チェックスタートボタンを押した後、下記の文章を声を出して読んでください。",
-      "text002" : "こんにちは。はじめまして。"
+      "text002" : "こんにちは。"
    },
    "INTERVIEW_HARDWARE_CHECK" : {
       "button_text001" : "確認",
