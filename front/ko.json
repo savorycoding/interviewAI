@@ -1718,7 +1718,7 @@
                }
             ],
             "CAPABILITY" : "SURVEY",
-            "CAPABILITY_ICON" : "",
+            "CAPABILITY_ICON" : "aa",
             "GUIDE" : {
                "description" : [
                   "이번 게임의 목표는 지원자의 성향을 이해하는 것입니다.",
