@@ -181,7 +181,7 @@
       "text_face_recognition" : "顔認識",
       "text_microphone" : "마이크",
       "text_voice_recognition" : "音声認識",
-      "text_webcam" : "웹캠"
+      "text_webcam" : "ウェブカメラ"
    },
    "INTERVIEW_INFORMATION" : {
       "button_text" : "確認しました",
