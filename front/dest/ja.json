@@ -1051,7 +1051,7 @@
          "FWT2" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>マウス<\/ b>に受験します。",
+                  "description" : "<b>マウス<\/b>に受験します。",
                   "image" : "mouseOnly.png",
                   "title" : "`[準備]ゲームの目的は、<b>図の重量を計算して、重い順に表示<\/ b>しています。`"
                }
