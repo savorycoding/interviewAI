@@ -215,7 +215,7 @@
       "certificationCode" : "面接コード",
       "checkGuide" : "お名前と面接コードを入力してください",
       "checkHardWare" : "システム環境チェックは、お済みですか",
-      "confirmCheckHardWare" : "ウェブカメラ、マイクチェックを続行しますか？",
+      "confirmCheckHardWare" : "ウェブカメラ、マイクチェックに進みますか？",
       "errorName" : "名前を入力してください。",
       "greet_text001" : "あなたの可能性を期待します",
       "greet_text002" : "であなたの未来を描いてみましょう。",
