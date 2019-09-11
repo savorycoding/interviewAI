@@ -230,7 +230,7 @@
    },
    "INTERVIEW_POPUP" : {
       "text_001" : "オンライン面接を進めるため<br>遮断されたオーディオシステムをOnにします。",
-      "text_002" : "次へ進む",
+      "text_002" : "確認",
       "text_003" : "ようこそ<br>マイダスアイティAI面接へ"
    },
    "INTERVIEW_SPEECH_RECOGNITION" : [
