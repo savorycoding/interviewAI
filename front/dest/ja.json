@@ -69,7 +69,7 @@
       "text_finish" : "顔面登録が完了しました。",
       "text_title" : "本人確認のための登録手続きです。<br>安心して顔を登録してください。",
       "text_title2" : "顔をガイド内に位置させ、顔面登録のボタンを押してください。",
-      "text_title3" : "顔を長方形の中央に合わせてください。"
+      "text_title3" : "顔を中央の四角に合わせてください。"
    },
    "INTERVIEW_HARDWARE_CALIBRATION" : {
       "checkStart" : "チェックスタート",
