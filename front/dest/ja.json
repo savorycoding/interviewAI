@@ -1811,10 +1811,10 @@
                {
                   "description" : "<b>キーボード(矢印キー)で<\/b>のみ応試します。",
                   "image" : "left_right.png",
-                  "title" : "`<span style='line-height:22px;margin-top:-22px'>[준비] 오른쪽에 제시된 자극의 색과 왼쪽에 제공된 단어의 뜻이 일치할 경우 키보드 왼쪽 방향키(◀)를,<br>일치하지 않는 경우 키보드 오른쪽 방향키(▶)를 눌러주세요.<\/span>`"
+                  "title" : "`<span style='line-height:22px;margin-top:-22px'>準備] 右に提示された刺激の色と左に提供された単語の意味が一致する場合キーボードの左キー(◀)を,<br>一致しない場合キーボードの右キー(▶)を押してください。<\/span>`"
                }
             ],
-            "CAPABILITY" : "순발력",
+            "CAPABILITY" : "瞬発力",
             "CAPABILITY_ICON" : "b6_icon3.png",
             "GUIDE" : {
                "description" : [
