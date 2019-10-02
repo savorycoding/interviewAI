@@ -1550,7 +1550,7 @@
          "PPT" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>마우스<\/b>로 응시합니다.",
+                  "description" : "<b>マウス<\/b>で応試します。",
                   "image" : "mouseOnly.png",
                   "title" : "`[준비] 이번 게임의 목표는 <b>사진 속 인물의 취향을 파악하여 질문에 응답<\/b>해야 합니다.`"
                }
