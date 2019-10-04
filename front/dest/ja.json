@@ -1229,7 +1229,7 @@
                {
                   "description" : "キーボード（矢印キー）で<\/b>のみ応試します。",
                   "image" : "left_right.png",
-                  "title" : "`[ROUND${(questionIDX ? questionIDX : 0) + 1}]  顔の口の長さを確認して長かったら右のキーを、短かったら左キーを押してください`"
+                  "title" : "`[ROUND${(questionIDX ? questionIDX : 0) + 1}] 顔の口の長さを確認して長かったら右のキーを、短かったら左キーを押してください`"
                }
             ],
             "CAPABILITY" : "HIDDEN",
