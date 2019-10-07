@@ -238,8 +238,8 @@
    },
    "INTERVIEW_LOGIN" : {
       "checkGuide" : "伝達された応試コードとお名前を<br>入力してください。",
-      "checkHardWare" : "ウェブカメラマイクチェックは、お済みですか？",
-      "confirmCheckHardWare" : "ウェブカメラマイクチェックを進めますか？",
+      "checkHardWare" : "ウェブカメラ・マイクチェックは、お済みですか？",
+      "confirmCheckHardWare" : "ウェブカメラ・マイクチェックを進めますか？",
       "errorName" : "お名前を入力してください",
       "greet_text001" : "あなたの可能性を期待しています。",
       "greet_text002" : "であなたの未来を描いてみましょう。",
