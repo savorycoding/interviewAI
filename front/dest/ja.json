@@ -779,8 +779,7 @@
                   "HAVE_COUNT_DOWN_PER_QUESTION"
                ],
                "icons" : [
-                  "ICON_MOUSE",
-                  "ICON_KEYBOARD"
+                  "ICON_MOUSE"
                ]
             },
             "SAMPLE" : [
@@ -1711,7 +1710,7 @@
                      },
                      {
                         "subList" : [],
-                        "text" : "項目あたりのミスが許可される回数が<br>2回に制限されており、<br> 3回以上間違えた場合は不正解になり、<br>次の項目に進みます。"
+                        "text" : "문항 당 실수가 허용되는 횟수가 2회로 제한되어 있으며,<br>3회 이상 실수 시, 오답처리 되고 다음 문제로 넘어갑니다."
                      }
                   ],
                   "image" : "SPC2\/sampleImage1.png"
