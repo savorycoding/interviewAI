@@ -2308,7 +2308,7 @@
             "게임의 목표는 <b>난이도를 선택하고 스페이스 바를 빠르게 눌러 당첨 금액을 누적시키는 것</b>입니다."
           ],
           "icons": [
-            "ICON_MOUSE_SPACE",
+            "ICON_MOUSE_SPACE"
           ],
           "description2": [
             "NO_HAVE_ANSWER",
