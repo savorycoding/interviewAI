@@ -606,7 +606,7 @@
          "CCT" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>マウス<\/b>で受験します。",
+                  "description" : "<b>マウス<\/b>で受検します。",
                   "image" : "mouseOnly.png",
                   "title" : "`[準備]マウスでカードを選択し、できるだけ多くのポイントを獲得してください。`"
                }
@@ -687,7 +687,7 @@
          "DAT" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>マウス<\/b>で受験します。",
+                  "description" : "<b>マウス<\/b>で受検します。",
                   "image" : "mouseOnly.png",
                   "title" : "`[ROUND${(questionIDX ? questionIDX : 0) + 1}] 緑色のピースの左右方向を調整して、できるだけ多くのパズルのピースを完成してください。`"
                }
@@ -762,7 +762,7 @@
          "EEFRT2" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>キーボード（スペースキー）<\/b>と<b>マウス<\/b>で受験します。",
+                  "description" : "<b>キーボード（スペースキー）<\/b>と<b>マウス<\/b>で受検します。",
                   "image" : "space_mouse.png",
                   "title" : "`[準備]スペースキーを素早く押してスペースを完全に詰めてください。`"
                }
@@ -855,12 +855,12 @@
          "ERT" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>キーボード(スペースキー)<\/b>と <b>マウス<\/b>で受験します。",
+                  "description" : "<b>キーボード(スペースキー)<\/b>と <b>マウス<\/b>で受検します。",
                   "image" : "space_mouse.png",
                   "title" : "`[準備]写真の中の<b>人物が感じている感情が何であるか<\/b>答えてください。`"
                },
                {
-                  "description" : "<b>マウス<\/b>で受験します。",
+                  "description" : "<b>マウス<\/b>で受検します。",
                   "image" : "mouseOnly.png",
                   "title" : "`[準備]写真の中の人物が感じている感情が何であるか答えてください。`"
                }
@@ -912,7 +912,7 @@
          "ERT_P1_2" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>キーボード（スペースキー）<\/b>と<b>マウス<\/b>で受験します。",
+                  "description" : "<b>キーボード（スペースキー）<\/b>と<b>マウス<\/b>で受検します。",
                   "image" : "space_mouse.png",
                   "title" : "`[準備]写真の中の人物が感じている感情が何であるかを答えてください。`"
                }
@@ -973,7 +973,7 @@
          "ERT_P2_2" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>マウス<\/b>で受験します。",
+                  "description" : "<b>マウス<\/b>で受検します。",
                   "image" : "mouseOnly.png",
                   "title" : "`[準備]写真の中の人物が感じている感情が何なのか答えてください。`"
                }
@@ -1024,7 +1024,7 @@
          "FIS" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>マウス<\/b>で受験します。",
+                  "description" : "<b>マウス<\/b>で受検します。",
                   "image" : "mouseOnly.png",
                   "title" : "`TODO-[準備]写真の中<b>人物が感じている感情が何であるか<\/b>答えてください。`"
                }
@@ -1074,7 +1074,7 @@
          "FWT2" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>マウス<\/b>で受験します。",
+                  "description" : "<b>マウス<\/b>で受検します。",
                   "image" : "mouseOnly.png",
                   "title" : "`[準備]ゲームの目的は、<b>絵の重さを計算して、重い順に並べる<\/b>ことです。`"
                }
@@ -1155,7 +1155,7 @@
          "IAT" : {
             "AUTO_START" : [
                {
-                  "description" : "TODO - キーボード (上部の数字キー＋エンターキー)でのみ受験します。",
+                  "description" : "TODO - キーボード (上部の数字キー＋エンターキー)でのみ受検します。",
                   "image" : "dummy_autoTimer.png",
                   "title" : "`TODO-[準備]写真の中の<b>人物が感じている感情が何であるか<\/b>答えてください。`"
                }
@@ -1226,7 +1226,7 @@
          "LENGTH" : {
             "AUTO_START" : [
                {
-                  "description" : "キーボード（矢印キー）で<\/b>のみ受験します。",
+                  "description" : "キーボード（矢印キー）で<\/b>のみ受検します。",
                   "image" : "left_right.png",
                   "title" : "`[ROUND${(questionIDX ? questionIDX : 0) + 1}] 顔の口の長さを確認して長かったら右のキーを、短かったら左キーを押してください`"
                }
@@ -1286,7 +1286,7 @@
          "MRT" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>マウス<\/b>で受験します。",
+                  "description" : "<b>マウス<\/b>で受検します。",
                   "image" : "mouseOnly2.png",
                   "title" : "`[準備]投影図に合わせて、最小の数のボックスを積み上げてください。`"
                }
@@ -1393,7 +1393,7 @@
          "NBACK" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>キーボード（矢印キー）で<\/b>のみ受験します。",
+                  "description" : "<b>キーボード（矢印キー）で<\/b>のみ受検します。",
                   "image" : "left_right.png",
                   "title" : "`[準備]提示される色のブロックの位置が<b> 2番目<\/b>の前の画面と同じであるかを判断してください。<br><div style='margin-top:10px;'> 全部で40問が提示されます。最初の2問を除いて、38個の項目全てに答えてください。<\/div> `"
                }
@@ -1485,7 +1485,7 @@
          "PCT" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>マウス<\/b>で受験します。",
+                  "description" : "<b>マウス<\/b>で受検します。",
                   "image" : "mouseOnly.png",
                   "title" : "`[準備]今回のゲームの目的は、<b>明日の天気を予測して質問に答える<\/b>ことです。`"
                }
