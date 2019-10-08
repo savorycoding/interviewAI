@@ -1549,7 +1549,7 @@
          "PPT" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>マウス<\/b>で受験します。",
+                  "description" : "<b>マウス<\/b>で受検します。",
                   "image" : "mouseOnly.png",
                   "title" : "`[準備] 今回のゲームの目標は<b>写真の中人物の趣向を把握して質問応答<\/b>することです。`"
                }
@@ -1597,7 +1597,7 @@
          "SPC1" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>マウス<\/b>で受験します。",
+                  "description" : "<b>マウス<\/b>で受検します。",
                   "image" : "mouseOnly.png",
                   "title" : "`[準備]提示された問題に該当するパターンを探して答案を完成してください。`"
                }
@@ -1672,7 +1672,7 @@
          "SPC2" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>マウス<\/b>で受験します。",
+                  "description" : "<b>マウス<\/b>で受検します。",
                   "image" : "mouseOnly.png",
                   "title" : "`「準備」提示されたパターンに該当する記号を探してください。`"
                }
@@ -1731,12 +1731,12 @@
          "SST" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>キーボード（矢印キー）で<\/b>のみ受験します。",
+                  "description" : "<b>キーボード（矢印キー）で<\/b>のみ受検します。",
                   "image" : "left_right.png",
                   "title" : "`[準備]「文字 - 数字」が分類基準を満たしているかを判別してください。`"
                },
                {
-                  "description" : "<b>キーボード（矢印キー）で<\/ b>のみ受験します。",
+                  "description" : "<b>キーボード（矢印キー）で<\/b>のみ受検します。",
                   "image" : "left_right.png",
                   "title" : "`[準備]「文字 - 数字」が分類基準を満たしているかを判別してください。`"
                }
@@ -1800,7 +1800,7 @@
          "STROOP" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>キーボード(矢印キー)で<\/b>のみ受験します。",
+                  "description" : "<b>キーボード(矢印キー)で<\/b>のみ受検します。",
                   "image" : "left_right.png",
                   "title" : "`<span style='line-height:22px;margin-top:-22px'>準備] 右に提示された刺激の色と左に提供された単語の意味が一致する場合キーボードの左キー(◀)を,<br>一致しない場合キーボードの右キー(▶)を押してください。<\/span>`"
                }
@@ -1846,7 +1846,7 @@
          "STROOP2" : {
             "AUTO_START" : [
                {
-                  "description" : "<b>キーボード（矢印キー）で<\/b>のみ受験します。",
+                  "description" : "<b>キーボード（矢印キー）で<\/b>のみ受検します。",
                   "image" : "left_right.png",
                   "title" : "`<span style='line-height:22px;margin-top:-22px'>[準備]右側に提示された刺激の色と、左側に与えられた単語の意味が一致する場合は、キーボードの左（◀）を、<br>一致しない場合は、キーボードの右を（▶）を押してください。<\/span> `"
                }
