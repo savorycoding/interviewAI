@@ -2175,7 +2175,7 @@
          ]
       },
       "V4_BASE" : {
-         "answerTime_text" : "回答時間",
+         "answerTime_text" : "回答の時間",
          "answer_text" : "回答する",
          "button_text1" : "リスタート",
          "button_text2" : "回答提出",
@@ -2326,7 +2326,7 @@
          "list" : [
             {
                "image" : "3d\/preTest_img1.png",
-               "text" : "面接は考える時間と回答時間で構成されています。"
+               "text" : "面接は考える時間と回答の時間で構成されています。"
             },
             {
                "image" : "3d\/preTest_img2.png",
