@@ -1228,14 +1228,14 @@
                {
                   "description" : "キーボード（矢印ボタン）で<\/b>のみ受検します。",
                   "image" : "left_right.png",
-                  "title" : "`[ROUND${(questionIDX ? questionIDX : 0) + 1}] 顔の口の長さを確認して長かったら右のキーを、短かったら左キーを押してください`"
+                  "title" : "`[ROUND${(questionIDX ? questionIDX : 0) + 1}] 顔の口の長さを確認して長かったら右ボタンを、短かったら左ボタンを押してください`"
                }
             ],
             "CAPABILITY" : "HIDDEN",
             "CAPABILITY_ICON" : "b6_icon9.png",
             "GUIDE" : {
                "description" : [
-                  "今回のゲームの目標は、顔の絵を見て<br><b>口の長さ<\/b>が<b>長いのか<b>短い<\/b>のか判断することです。",
+                  "今回のゲームの目標は、顔の絵を見て<br><b>口の長さ<\/b>が<b>長いのか<b>短い<\/b>のかを判断することです。",
                   "絵を見て、口の長さが長いか短いかを<br><b>キーボードの<\/b>方向ボタンで応答してください。"
                ],
                "description2" : [
