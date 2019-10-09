@@ -237,7 +237,7 @@
       "text_006" : "受信した受検コードと名前を入力してください。"
    },
    "INTERVIEW_LOGIN" : {
-      "checkGuide" : "伝達された受検コードとお名前を<br>入力してください。",
+      "checkGuide" : "受信した受検コードとお名前を<br>入力してください。",
       "checkHardWare" : "ウェブカメラ・マイクチェックは、お済みですか？",
       "confirmCheckHardWare" : "ウェブカメラ・マイクチェックを進めますか？",
       "errorName" : "お名前を入力してください",
