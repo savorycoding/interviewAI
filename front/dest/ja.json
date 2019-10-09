@@ -137,7 +137,7 @@
    "INTERVIEW_HARDWARE_ECHO" : {
       "ECHO_SCENE_001_text001" : "こんにちは！",
       "ECHO_SCENE_001_text002" : "ようこそ",
-      "ECHO_SCENE_001_text003" : "円滑なAI面接を進めるために<b>受検環境のチェック<\/b>を始めます。",
+      "ECHO_SCENE_001_text003" : "円滑な面接のために<b>受検環境のチェック<\/b>を開始します。",
       "ECHO_SCENE_001_text004" : "オンライン面接中、発生可能な諸問題に対応するために,<br>必ず画面の右上の問題解決ガイドを確認してください。<br><b>問題解決ガイド<\/b>を確認しなかった場合、不利益を受けかねません。"
    },
    "INTERVIEW_HARDWARE_FAIL" : {
