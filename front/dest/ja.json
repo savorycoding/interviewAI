@@ -239,7 +239,7 @@
    "INTERVIEW_LOGIN" : {
       "alert_text001" : "既に受検を完了しています",
       "alert_text002" : "受検期限が過ぎています",
-      "alert_text003" : "응시 기간이 아닙니다.<br>응시기간은 ${s}~${e} 입니다.",
+      "alert_text003" : "受検期間ではありません。<br>受検期間は${s}~${e}です。",
       "checkGuide" : "受信した受検コードとお名前を<br>入力してください。",
       "checkHardWare" : "ウェブカメラ・マイクチェックは、お済みですか？",
       "confirmCheckHardWare" : "ウェブカメラ・マイクチェックを進めますか？",
