@@ -200,7 +200,7 @@
    },
    "INTERVIEW_HARDWARE_TUTORIAL" : {
       "button_text" : [
-         "テュートリアル終了"
+         "チュートリアル終了"
       ],
       "description" : [
          "これよりウェブカメラとマイクの連結を点検します。<br>まず、点検方法を確認しましょう。",
