@@ -922,7 +922,7 @@
             "CAPABILITY_ICON" : "b6_icon5.png",
             "GUIDE" : {
                "description" : [
-                  "今回のゲームの目標は、<b>顔の写真<\/b>を見て、<br>該当する感情を素早く<br>判断すること<\/b>です。"
+                  "今回のゲームの目標は、<b>顔写真<\/b>を見て、<br>該当する感情を素早く<br>判断すること<\/b>です。"
                ],
                "description2" : [
                   "HAVE_ANSWER",
