@@ -11,7 +11,7 @@
       },
       "text_agree" : "上記の内容を全て確認し、映像録画及び音声録音に同意します。",
       "text_agree_button" : "同意の上、オンライン面接をスタート",
-      "text_before_agree" : "同意がなければ面接を進められません。",
+      "text_before_agree" : "同意していない場合、面接を進めることができません。",
       "title" : "情報活用同意"
    },
    "INTERVIEW_COMMON" : {
