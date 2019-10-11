@@ -692,7 +692,7 @@
                {
                   "description" : "<b>マウス<\/b>で受検します。",
                   "image" : "mouseOnly.png",
-                  "title" : "`[ROUND${(questionIDX ? questionIDX : 0) + 1}] 緑色のピースの左右方向を調整して、できるだけ多くのパズルのピースを完成してください。`"
+                  "title" : "`[ROUND${(questionIDX ? questionIDX : 0) + 1}] 緑色のピースの左右方向を調整して、できるだけ多くのパズルのピースを完成させてください。`"
                }
             ],
             "CAPABILITY" : "瞬発力",
