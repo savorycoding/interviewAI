@@ -1876,7 +1876,7 @@
                   "description" : [
                      {
                         "subList" : [],
-                        "text" : "画面左側に提示された単語の意味と<br>右側に提示された文字の色が<br>一致しているかを確認して答えてください。"
+                        "text" : "画面左側に提示された単語の意味と<br>右側に提示された文字の色が<br>一致しているかを確認してお答えください。"
                      },
                      {
                         "subList" : [],
@@ -2142,7 +2142,7 @@
       "V3_QNA_STRUCT" : {
          "GAME" : {
             "alert_text" : [
-               "openQuestionList項目が存在しません。<br> BV_LIKERT終了するかどうかを確認してください。",
+               "openQuestionList項目が存在しません。<br> BV_LIKERT終了するかどうかご確認ください。",
                "開く質問が存在しません。<br> 1.BV_LIKERTが施行されない、または<br> 2.開く質問を受けられない状況"
             ],
             "description" : [
