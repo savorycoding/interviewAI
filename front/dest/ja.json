@@ -57,7 +57,7 @@
       "description" : [
          "面接中に問題が発生しましたか？ボタンをクリックしてください！"
       ],
-      "title" : "문제 해결 가이드"
+      "title" : "問題解決ガイド"
    },
    "INTERVIEW_FACE_REGISTER" : {
       "button_text001" : "もう一度撮る",
