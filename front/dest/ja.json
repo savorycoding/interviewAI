@@ -244,7 +244,7 @@
       "checkGuide" : "渡されたログイン情報を入力してください。",
       "checkHardWare" : "ウェブカメラ・マイクチェックは、お済みですか？",
       "confirmCheckHardWare" : "ウェブカメラ・マイクチェックを進めますか？",
-      "errorInput" : "입력해주세요.",
+      "errorInput" : "入力してください。",
       "errorName" : "お名前を入力してください",
       "greet_text001" : "あなたの可能性に期待しています。",
       "greet_text002" : "であなたの未来を描いてみましょう。",
