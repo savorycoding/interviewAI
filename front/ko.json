@@ -240,7 +240,7 @@
   "INTERVIEW_LOGIN": {
     "errorName": "이름을 입력하십시오",
     "checkHardWare": "잠깐? 웹캠 마이크 체크는 하셨나요?",
-    "checkGuide": "전달 받으신 응시코드와 이름을 적어주세요.",
+    "checkGuide": "전달 받은 로그인 정보를 입력해주세요.",
     "greet_text001": "당신의 가능성을 기대합니다",
     "greet_text002": "에서 당신의 미래를 그려보세요.",
     "greet_text003": "당신과 함께 내일을 만듭니다.",
