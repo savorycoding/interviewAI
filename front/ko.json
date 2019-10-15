@@ -238,6 +238,7 @@
     "text_006": "전달 받으신 응시코드와 이름을 적어주세요."
   },
   "INTERVIEW_LOGIN": {
+    "errorInput": "입력해주세요."
     "errorName": "이름을 입력하십시오",
     "checkHardWare": "잠깐? 웹캠 마이크 체크는 하셨나요?",
     "checkGuide": "전달 받은 로그인 정보를 입력해주세요.",
