@@ -20,7 +20,9 @@
       "prefix_003" : "が",
       "prefix_004" : "が",
       "prefix_005" : "と",
-      "prefix_006" : "と"
+      "prefix_006" : "と",
+      "prefix_007" : "을",
+      "prefix_008" : "를"
    },
    "INTERVIEW_COMPANY_INFO" : {},
    "INTERVIEW_END" : {
