@@ -815,8 +815,7 @@
             "파트간 10초의 휴식시간이 있습니다."
           ],
           "icons": [
-            "ICON_MOUSE",
-            "ICON_KEYBOARD"
+            "ICON_MOUSE_SPACE"
           ],
           "description2": [
             "HAVE_ANSWER",
