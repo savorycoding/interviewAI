@@ -872,8 +872,7 @@
             "사진 속 인물에게서 '감정'이 느껴질 때 키보드 스페이스 바를 누르고, 어떤 감정인지 마우스로 클릭해주세요."
           ],
           "icons": [
-            "ICON_MOUSE",
-            "ICON_KEYBOARD"
+            "ICON_MOUSE_SPACE"
           ],
           "description2": [
             "HAVE_ANSWER",
