@@ -243,7 +243,7 @@
    "INTERVIEW_LOGIN" : {
       "alert_text001" : "既に受検を完了しています",
       "alert_text002" : "受検期限が過ぎています",
-      "alert_text003" : "응시 기간이 아닙니다. 응시기간은<br>",
+      "alert_text003" : "受検期間ではありません。受検期間は<br>",
       "alert_text004" : "です。",
       "certificationCode" : "応試コード",
       "checkGuide" : "渡されたログイン情報を入力してください。",
