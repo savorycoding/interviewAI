@@ -145,7 +145,7 @@
    },
    "INTERVIEW_HARDWARE_FAIL" : {
       "button_text001" : "ウェブカメラ・マイク再チェック",
-      "button_text002" : "再スタート",
+      "button_text002" : "リスタート",
       "errorList" : [
          {
             "text" : "［顔］顔を認識できませんでした。<br>チェック中は、顔の正面を画面のガイドラインの中に合わせてください。"
