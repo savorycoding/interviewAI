@@ -28,7 +28,7 @@
    "INTERVIEW_DEFENSE" : {
       "label_text" : [
          "この検査はGoogle Chromeに対応しています。<br>Google Chromeでの受検をお願いします。",
-         "Google Chromeをインストール",
+         "Google Chrome<br>をインストール",
          "受検できない機器です。",
          "この検査は<span style=\"color:#3d82c2\">デスクトップ<\/span>や<span style=\"color:#3d82c2\">ノートPC<\/span>でのみ受検できます。"
       ]
