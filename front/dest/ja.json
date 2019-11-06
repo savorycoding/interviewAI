@@ -30,7 +30,7 @@
          "この検査はGoogle Chromeに対応しています。<br>Google Chromeでの受検をお願いします。",
          "Google Chromeをインストール",
          "受検できない機器です。",
-         "본 게임은 <span style=\"color:#3d82c2\">데스크탑<\/span>이나 <span style=\"color:#3d82c2\">노트북<\/span>으로만 응시가 가능합니다."
+         "この検査は<span style=\"color:#3d82c2\">デスクトップ<\/span>や<span style=\"color:#3d82c2\">ノートPC<\/span>でのみ受検できます。"
       ]
    },
    "INTERVIEW_END" : {
