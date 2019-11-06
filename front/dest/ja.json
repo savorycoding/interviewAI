@@ -27,9 +27,9 @@
    "INTERVIEW_COMPANY_INFO" : {},
    "INTERVIEW_DEFENSE" : {
       "label_text" : [
-         "본 게임은 Chrome에 최적화 되어있습니다.<br>Chrome으로 응시하시길 바랍니다.",
-         "크롬 설치하기",
-         "응시하실 수 없는 기기입니다.",
+         "この検査はGoogle Chromeに対応しています。<br>Google Chromeでの受検をお願いします。",
+         "Google Chromeをインストール",
+         "受検できない機器です。",
          "본 게임은 <span style=\"color:#3d82c2\">데스크탑<\/span>이나 <span style=\"color:#3d82c2\">노트북<\/span>으로만 응시가 가능합니다."
       ]
    },
