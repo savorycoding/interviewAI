@@ -72,6 +72,7 @@
    "INTERVIEW_FACE_REGISTER" : {
       "button_text001" : "もう一度撮る",
       "button_text002" : "このまま進む",
+      "check_work" : "되려나",
       "text_confirm1" : "次の写真を",
       "text_confirm2" : "さんの顔に登録しますか？",
       "text_face_regist" : "顔登録",
