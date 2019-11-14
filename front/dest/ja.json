@@ -24,7 +24,9 @@
       "prefix_007" : "を",
       "prefix_008" : "を"
    },
-   "INTERVIEW_COMPANY_INFO" : {},
+   "INTERVIEW_COMPANY_INFO" : {
+      "text_private_info" : "개인정보 처리방침"
+   },
    "INTERVIEW_DEFENSE" : {
       "label_text" : [
          "この検査はGoogle Chromeに対応しています。<br>Google Chromeでの受検をお願いします。",
