@@ -32,7 +32,9 @@
     "prefix_007": "을",
     "prefix_008": "를"
   },
-  "INTERVIEW_COMPANY_INFO": {},
+  "INTERVIEW_COMPANY_INFO": {
+    "text_private_info" : "개인정보 처리방침"
+  },
   "INTERVIEW_ERROR_GUIDE": {
     "description": [
       "응시 중에 문제가 발생하였나요? 버튼을 클릭해주세요!"
